@@ -1,0 +1,271 @@
+body
+{
+	margin:0;
+	padding:0;
+}
+#background
+{
+    background-color: black;
+    width: 1920px;
+}
+#content
+{
+	width: 1920px;
+	height:10360px;
+	margin: 0 auto;
+}
+#logo img
+{
+	position: relative;
+	left: 675px;
+	width: 500px;
+	height:300px;
+}
+#navigation li
+{
+	list-style: none;
+	display: inline;
+	padding: 20px;
+	margin:-3px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+	color: white;
+	position: relative;
+	left: 750px;
+}
+#topphoto img
+{
+   position: relative;
+   left: 400px;
+}
+#release
+{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 25px;
+	color:white;
+	list-style: none;
+	text-align: center;
+}
+#poster img
+{
+   position: relative;
+   left: 580px;
+   height: 1000px;
+   width:750px;
+}
+#space
+{
+	height: 20px;
+}
+#about li
+{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 35px;
+	color:white;
+	list-style: none;
+	text-align: center;
+}
+#about p
+{
+	font-size: 28px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: white;
+	padding: 1px;
+	position: relative;
+
+}
+#actors1 img
+{
+	width: 900px;
+	height: 300px;
+	position: relative;
+	left: 500px;
+}
+#actors
+{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 35px;
+	color:white;
+	list-style: none;
+	text-align: center;
+}
+#daisy li
+{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 35px;
+	color:white;
+	list-style: none;
+	position: relative;
+
+}
+#daisy img
+{
+	height: 200px;
+	width: 400px;
+}
+#daisy
+{
+    font-size: 20px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: white;
+	padding: 1px;
+	position: relative;
+}
+#daisy1
+{
+	font-size: 15px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #C0C0C0;
+	padding: 1px;
+	position: relative;
+	text-align: center;
+}
+#mark img
+{
+	height: 180px;
+	width: 400px;
+}
+#mark
+{
+	font-size: 20px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: white;
+	padding: 1px;
+	position: relative;
+}
+#mark1
+{
+	font-size: 15px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #C0C0C0;
+	padding: 1px;
+	position: relative;
+	text-align: center;
+}
+#carrie img
+{
+	height: 200px;
+	width: 400px;
+}
+#carrie
+{
+	font-size: 20px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: white;
+	padding: 1px;
+	position: relative;
+}
+#carrie1
+{
+	font-size: 15px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #C0C0C0;
+	padding: 1px;
+	position: relative;
+	text-align: center;
+}
+#john img
+{
+	height: 180px;
+	width: 400px;
+}
+#john
+{
+	font-size: 20px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: white;
+	padding: 1px;
+	position: relative;
+}
+#john1
+{
+	font-size: 15px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #C0C0C0;
+	padding: 1px;
+	position: relative;
+	text-align: center;
+}
+#adam img
+{
+	height: 200px;
+	width: 400px;
+}
+#adam
+{
+	font-size: 20px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: white;
+	padding: 1px;
+	position: relative;
+}
+#adam1
+{
+	font-size: 15px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #C0C0C0;
+	padding: 1px;
+	position: relative;
+	text-align: center;
+}
+#rian img
+{
+	height: 400px;
+	width: 800px;
+}
+#director
+{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 35px;
+	color:white;
+	list-style: none;
+	text-align: center;
+}
+#rian
+{
+	font-size: 20px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: white;
+	padding: 1px;
+	position: relative;
+}
+#rian1
+{
+	font-size: 15px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #C0C0C0;
+	padding: 1px;
+	position: relative;
+	text-align: center;
+}
+#pictures img
+{
+	height: 350px;
+	width: 700px;
+}
+#pictures2 img
+{
+	height: 500px;
+	width: 700px;
+}
+#Tickets img
+{
+	height: 150px;
+	width: 700px;
+}
+#share img
+{
+  height: 100px;
+  width: 250px;
+}
+#footNav li
+{
+	bottom:-10px;
+	list-style: none;
+	display: inline;
+	padding: 20px;
+	margin:-3px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+	color: white;
+}
